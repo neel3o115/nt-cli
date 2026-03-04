@@ -68,6 +68,22 @@ install dependencies
 npm install
 ```
 
+```
+node version
+```
+
+```bash
+nvm use 20
+```
+
+if node 20 is not installed
+
+
+```bash
+nvm install 20
+nvm use 20
+```
+
 build the project
 
 ```
