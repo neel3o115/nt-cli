@@ -69,7 +69,7 @@ npm install
 ```
 
 ```
-node version
+node -v
 ```
 
 ```bash
