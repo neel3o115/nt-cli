@@ -24,6 +24,6 @@
     "typescript": "^5.9.3"
   },
   "bin": {
-    "nt": "./dist/nt-cli.js"
+    "nt": "./dist/cli.js"
   }
 }
